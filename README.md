@@ -42,9 +42,6 @@ chmod +x Devil_dos.py
 python3 Devil_dos.py
 ```
 
-## Author
-- **Dieh4cker**
-
 ## License
 This project is for educational purposes only. Respect the law. Respect the community.
 
